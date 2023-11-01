@@ -1,0 +1,9 @@
+.content p {
+  color: gray;
+}
+
+.message {
+  border-right: 1px solid gray;
+  padding: 4px;
+  margin-right: 4px;
+}
